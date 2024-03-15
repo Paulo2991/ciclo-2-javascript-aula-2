@@ -72,6 +72,10 @@ var a = 5;
 // que no JavaScript usando let não permite fazer a declaração de variaveis usando o mesmo
 // nome, deveria tirar o let da segunda sentença para atualizar o valor da variavel. 
 
+
+// Na primeira sentença não apresenta erro por conta que as variaveis estão sendo declaradas com o var
+// nesse caso só está fazendo atualização dos valores das variaveis. 
+
 var x = 5;
 var x = 10;
 //console.log(x); 
